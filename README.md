@@ -13,7 +13,7 @@ I'm a student learning software development across multiple areas, including **J
     </p>
   </div>
   
-  <div style="border-left:1px solid #000;height:50px;"></div>
+  <div style="border-left:10px solid #000;height:50px;"></div>
   
   <div>
     <p>
