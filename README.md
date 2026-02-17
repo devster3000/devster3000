@@ -17,5 +17,5 @@ I'm a student learning software development across multiple areas, including **J
 <h3>Languages I am learning:</h3>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash Logo" width="50" height="50"/>
 </p>
