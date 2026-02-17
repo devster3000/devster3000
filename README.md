@@ -13,3 +13,9 @@ I'm a student learning software development across multiple areas, including **J
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin Logo" width="50" height="50"/>
     
 </p>
+
+<h3>Languages I am learning:</h3>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+</p>
