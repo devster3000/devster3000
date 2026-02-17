@@ -15,6 +15,6 @@ I'm a student learning software development across multiple areas, including **J
 
 <h3>Languages I am learning:</h3>
 <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash Logo" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/odb/official-bash-logo/e44dab9f89aadd410ff04825b2692eab16711211/assets/Logos/Icons/SVG/128x128_white.svg" alt="Bash Logo" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter Logo" width="50" height="50"/>  
 </p>
