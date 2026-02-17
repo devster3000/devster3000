@@ -2,6 +2,8 @@
 
 I'm a student learning software development across multiple areas, including **JavaScript**/**HTML**/**CSS** for web development, **C** for understanding low-level programming and **Kotlin** for Android development.
 
+<h3>Languages I Know:</h3>
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5 Logo" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3 Logo" width="50" height="50"/>
