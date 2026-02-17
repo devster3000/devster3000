@@ -8,7 +8,7 @@ I'm a student learning software development across multiple areas, including **J
     <a href="https://en.wikipedia.org/wiki/CSS"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3 Logo" width="50" height="50"/> </a>
     <a href="https://en.wikipedia.org/wiki/JavaScript"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/> </a>
     <img src="https://github.com/devster3000/devster3000/blob/main/v-divider.png" height="50"/>
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C Logo" width="50" height="50"/> </a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"> <img src="https://github.com/devster3000/devster3000/blob/main/c_logo.png" alt="C Logo" width="50" height="50"/> </a>
     <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/> </a>
     <a href="https://en.wikipedia.org/wiki/Kotlin"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin Logo" width="50" height="50"/> </a>
 </p>
