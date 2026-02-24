@@ -4,17 +4,17 @@ I'm a student learning software development across multiple areas, including **J
 
 <h3>Languages I Know:</h3>
 <p>
-    <a href="https://en.wikipedia.org/wiki/HTML5"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5 Logo" width="50" height="50" /> </a>
-    <a href="https://en.wikipedia.org/wiki/CSS"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3 Logo" width="50" height="50"/> </a>
-    <a href="https://en.wikipedia.org/wiki/JavaScript"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/> </a>
-    <img src="https://github.com/devster3000/devster3000/blob/main/v-divider.png" height="50"/>
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"> <img src="https://github.com/devster3000/devster3000/blob/main/c_logo.png" alt="C Logo" width="50" height="55"/> </a>
-    <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/> </a>
-    <a href="https://en.wikipedia.org/wiki/Kotlin"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin Logo" width="50" height="50"/> </a>
+    <a href="https://en.wikipedia.org/wiki/HTML5"> <img src="https://github.com/devster3000/devster3000/blob/main/assets/html5-original.svg" alt="HTML5 Logo" width="50" height="50" /> </a>
+    <a href="https://en.wikipedia.org/wiki/CSS"> <img src="https://github.com/devster3000/devster3000/blob/main/assets/css3-original.svg" alt="CSS3 Logo" width="50" height="50"/> </a>
+    <a href="https://en.wikipedia.org/wiki/JavaScript"> <img src="https://github.com/devster3000/devster3000/blob/main/assets/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/> </a>
+    <img src="https://github.com/devster3000/devster3000/blob/main//assetsv-divider.png" height="50"/>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"> <img src="https://github.com/devster3000/devster3000/blob/main/assets/c_logo.png" alt="C Logo" width="50" height="55"/> </a>
+    <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"> <img src="https://github.com/devster3000/devster3000/blob/main/assets/python-original.svg" alt="Python Logo" width="50" height="50"/> </a>
+    <a href="https://en.wikipedia.org/wiki/Kotlin"> <img src="https://github.com/devster3000/devster3000/blob/main/assets/kotlin-original.svg" alt="Kotlin Logo" width="50" height="50"/> </a>
 </p>
 
 <h3>Languages I am learning:</h3>
 <p>
     <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"> <img src="https://raw.githubusercontent.com/odb/official-bash-logo/e44dab9f89aadd410ff04825b2692eab16711211/assets/Logos/Icons/SVG/128x128_white.svg" alt="Bash Logo" width="50" height="50"/> </a>
-    <a href="https://en.wikipedia.org/wiki/Flutter_(software)"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter Logo" width="50" height="50"/> </a>
+    <a href="https://en.wikipedia.org/wiki/Flutter_(software)"> <img src="https://github.com/devster3000/devster3000/blob/main/assets/flutter-original.svg" alt="Flutter Logo" width="50" height="50"/> </a>
 </p>
