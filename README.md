@@ -9,7 +9,9 @@ I'm a student learning software development across multiple areas, including **J
     <a href="https://en.wikipedia.org/wiki/JavaScript"> <img src="https://github.com/devster3000/devster3000/blob/main/assets/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/> </a>
     <img src="https://github.com/devster3000/devster3000/blob/main/assets/v-divider.png" height="50"/>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)"> <img src="https://github.com/devster3000/devster3000/blob/main/assets/c-original.png" alt="C Logo" width="50" height="55"/> </a>
+    <img src="https://github.com/devster3000/devster3000/blob/main/assets/v-divider.png" height="50"/>
     <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"> <img src="https://github.com/devster3000/devster3000/blob/main/assets/python-original.svg" alt="Python Logo" width="50" height="50"/> </a>
+    <img src="https://github.com/devster3000/devster3000/blob/main/assets/v-divider.png" height="50"/>
     <a href="https://en.wikipedia.org/wiki/Kotlin"> <img src="https://github.com/devster3000/devster3000/blob/main/assets/kotlin-original.svg" alt="Kotlin Logo" width="50" height="50"/> </a>
 </p>
 
